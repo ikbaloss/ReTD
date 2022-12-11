@@ -1,0 +1,7 @@
+pubdate
+tweetid
+author
+description
+Select
+in_reply_to_screen_name
+user_followers_count
